@@ -23,3 +23,36 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
+
+.thesis-table th,
+.thesis-table td {
+  vertical-align: top;
+}
+
+.thesis-status {
+  display: inline-block;
+  padding: 0.2rem 0.55rem;
+  border-radius: 999px;
+  font-size: 0.82rem;
+  font-weight: 600;
+  text-transform: lowercase;
+}
+
+.thesis-status-open {
+  background: #dff3e4;
+  color: #156f3d;
+}
+
+.thesis-status-reserved {
+  background: #fff1cc;
+  color: #8a5a00;
+}
+
+.thesis-status-completed {
+  background: #eceff3;
+  color: #4d5966;
+}
+
+.thesis-sheet {
+  margin: 1rem 0 1.5rem;
+}

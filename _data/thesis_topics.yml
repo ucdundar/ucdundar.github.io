@@ -1,0 +1,14 @@
+- area: Digital advertising
+  topic: Geo-experiments in campaign measurement
+  status: open
+  notes: Suitable for students interested in causal measurement and advertising effectiveness.
+
+- area: Marketing analytics
+  topic: Budget allocation heuristics in online advertising
+  status: reserved
+  notes: Strong fit for students with quantitative background and interest in optimization.
+
+- area: Privacy and targeting
+  topic: Contextual vs behavioral targeting in prospecting campaigns
+  status: completed
+  notes: Example of a completed topic. Change the status label whenever a topic is taken or finished.

@@ -2,11 +2,24 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Courses and teaching experience.
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+My teaching has focused on analytics, programming, and quantitative methods across WU Vienna and Istanbul Kültür University.
 
-Organize your courses by years, topics, or universities, however you like!
+## WU Vienna
+
+- Digital Marketing Lab (since WS 2025)
+- Marketing Analytics (since WS 2020)
+- Business Analytics II (since SS 2022)
+
+## Istanbul Kültür University
+
+- Introduction to Programming
+- Object-Oriented Programming
+- Introduction to Probability (also as main lecturer)
+- Design of Experiments
+- Simulation Modelling
+- Advanced Manufacturing Techniques
